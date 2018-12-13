@@ -1,0 +1,12 @@
+.header-container .header-content {
+  position: fixed;
+  height: calcrem(60);
+  width: 100%;
+  background: #4f64fd;
+  z-index: 10000; }
+  .header-container .header-content p {
+    margin: calcrem(20);
+    color: #ffffff; }
+
+.header-container .page-container {
+  padding-top: calcrem(60); }

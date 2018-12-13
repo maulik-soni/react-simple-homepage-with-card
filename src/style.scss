@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif; 
+}
+
+@function calcrem($value) {
+    @return ($value / 16)+rem;
+}
+
+@import "./styles/header.scss";
+@import "./styles/homepage.scss";

@@ -1,0 +1,6 @@
+.homepage-container .homepage-feed-container {
+  margin: calcrem(10) auto calcrem(0) auto;
+  max-width: calcrem(960); }
+
+.homepage-container .homepage-feed-card-container {
+  margin: calcrem(10); }
