@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 
@@ -73,7 +72,7 @@ See the section about [deployment](#deployment) for more information.
 ## INSTALLATION STEPS
 
 * Install any node (any version higher than v6.9.5) server on your machine.
-* To Clone this repository run : `git clone git@gitlab.com:maulik-soni/elecub-front-end.git`.
+* To Clone this repository run : `git@github.com:maulik-soni/react-simple-homepage-with-card.git`.
 * Run `npm install` command inside the project folder.
 * After it downloads all the dependemcies run `npm start` command to start the app.
 * Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
